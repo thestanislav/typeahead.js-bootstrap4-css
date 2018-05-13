@@ -6,7 +6,7 @@
     "typeaheadjs.scss"
   ],
   "dependencies": {
-    "bootstrap": "~4.0.0",
+    "bootstrap": "~4.0",
     "typeahead.js": "~0.11.0"
   },
   "ignore":[
